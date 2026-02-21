@@ -16,3 +16,7 @@ This study analyzes the "Toss Advantage" in the IPL using a dataset of 1,000+ ma
 ## Repository Contents
 - `IPL ANALYSIS.xlsx`: Full dataset, Power Query steps, and Pivot Tables.
 - `Quantitative Analysis of the IPL.docx`: Final research report and executive summary.
+
+## Technical Tools
+- **Tools:** Microsoft Excel (Power Query, Pivot Tables)
+- **Concepts:** Standard Deviation, Data Cleaning, JSON Parsing, Statistical Variance.
